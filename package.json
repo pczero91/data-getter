@@ -1,0 +1,17 @@
+{
+  "name": "data-getter",
+  "version": "1.0.0",
+  "description": "Get data from a html form and saves it",
+  "main": "lib/DataGetter.js",
+  "scripts": {
+    "test": "node ./test/test.js"
+  },
+  "author": "Pedro Castaneda",
+  "license": "ISC",
+  "dependencies": {
+    "form-parser": "git+ssh://git@github.com:pczero91/form-parser.git"
+  },
+  "devDependencies": {
+    "@types/node": "^18.7.7"
+  }
+}
