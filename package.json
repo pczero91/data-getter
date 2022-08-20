@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Get data from a html form and saves it",
   "main": "lib/DataGetter.js",
+  "types": "src/DataGetter.ts",
   "scripts": {
     "test": "node ./test/test.js"
   },
