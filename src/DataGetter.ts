@@ -1,6 +1,8 @@
 import { FormParser } from "form-parser";
 import { IncomingMessage } from "http";
 
+export * from "form-parser";
+
 export interface DataHead {
     name?: string,
     type?: string,
